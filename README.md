@@ -1,2 +1,6 @@
-# Shaun-Battle
-Makers' Week 3 Afternoon Challenge (Web App Development)
+# Intro to Web
+--------------
+
+### Overview
+
+Simple web app built with sinatra, Makers Academy pairs programming challenge.
